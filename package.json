@@ -1,0 +1,23 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "\"Mini project from FCC\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesshankar/timestamp-microservice.git"
+  },
+  "author": "\"Shankar Khatri\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesshankar/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/yesshankar/timestamp-microservice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
